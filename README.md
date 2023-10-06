@@ -11,7 +11,7 @@ npm init -y
 ```
 ## Install ESLint Locally
 
-Install ESLint as a local project dependency using `npm`. This way, ESLint and its configurations are specific to your project:
+Install ESLint as a local project dependency using `npm`. This way, ESLint, and its configurations are specific to your project:
 
 ```bash
 npm install eslint --save-dev
@@ -33,7 +33,7 @@ module.exports = {
 };
 ```
 
-To have some super clean code you can add the following instead: 
+To have some super clean code, you can add the following instead: 
 
 ```js
 module.exports = {
@@ -65,6 +65,6 @@ module.exports = {
 };
 
 ```
-## Enjoy you clean code!
+## Enjoy your clean code!
 
 This will hopefully give you some nice looking code that you can be proud to show off to your friends family and potential employers. 
